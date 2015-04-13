@@ -36,6 +36,10 @@ public class SkeletonActivity extends Form implements HandlesEventDispatching {
 	private Button retrieveButton;
 	private Label resultLabel;
 	private Button saveButton;
+	
+	//variable to hold our saved valued for later
+	private int Iforgotname;
+	
 
  // Java Bridger apps all use $define() in place of main()
  void $define() {
