@@ -5,7 +5,7 @@ package edu.saintjoe.cs.brianc.appskeleton;
 
 /* App Skeleton
  * Written by Brian Capouch 17 March 2015
- * This app will serve as the basis for student project apps
+ * This app we are adding a getter and a setter to this code
  */
 
 // Import directives tell Eclipse which components you intend to use
